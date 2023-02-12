@@ -1,0 +1,64 @@
+/* main index */
+
+body {
+    text-align: center;
+}
+
+
+/* navbar */
+
+
+.navbar-brand {
+    font-size: 6vmin;
+    font-family: "Urbanist", sans-serif;
+    font-weight: 700;
+}
+
+.navbar {
+    padding: 5% 10%;
+}
+
+.nav-link {
+    font-family: "Urbanist", sans-serif;
+    font-size: 1.4rem;
+}
+
+.nav-item {
+    padding: 0 25px;
+}
+
+
+/* Carousel */
+.carousel {
+    margin-bottom: 4rem;
+  }
+
+  /* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  /* Declare heights because of positioning of img element */
+.carousel-item {
+    height: 32rem;
+}
+
+.carousel-background {
+    object-fit: cover;
+}
+
+.index-text {
+    text-shadow: -0.5px 0 #000, 0 1px #000;
+    font-family: "Roboto", sans-serif;
+}
+
+
+/* footer */
+
+
+#footer {
+    font-family: "Urbanist", sans-serif;
+}
+
+  
